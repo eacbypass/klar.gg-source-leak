@@ -8,5 +8,8 @@ VIDEO: https://www.youtube.com/watch?v=Z7a3IovpDFk
 
 DISCORD: https://discord.gg/imposter
 
+---
 
-Shoutout to Rain0x0
+Shout out to Rain0x0, he was one of the first to crack klar
+
+Rain's Klar Crack: https://github.com/rain0x06/Klar.gg-Crack
